@@ -1,11 +1,10 @@
 
+import Layout from './layout/Layout';
 
 function App() {
 
   return (
-    <div>
-      Hello 
-    </div>
+    <Layout />
   )
 }
 
